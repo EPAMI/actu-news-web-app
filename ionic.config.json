@@ -1,0 +1,8 @@
+{
+  "name": "ActuNews Web App ",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "df4e8507"
+}
